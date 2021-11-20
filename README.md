@@ -45,7 +45,7 @@ The user should clone the repository from GitHub. This application requires Node
 
 This application will allow users to view, add, and edit employees, roles, departments, and managers.
 
-View walk through video via [Screencastify](https://drive.google.com/file/d/1AXQgxbbumq0uXds7yJS2xikDukW-BUr4/view?usp=sharing)
+View walk through video via [![Watch the video](https://pagarbook.com/blog/wp-content/uploads/2021/01/New-Project-1.jpg)](https://drive.google.com/file/d/1AXQgxbbumq0uXds7yJS2xikDukW-BUr4/view?usp=sharing)
 
 ## License
 
@@ -55,3 +55,6 @@ This project is license under MIT
 
 Elham Bazazzadeh.
 ```
+
+##Refrences for Image:
+.()https://pagarbook.com/blog/employee-management-system-and-importance-with-example/
