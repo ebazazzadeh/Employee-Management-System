@@ -45,7 +45,7 @@ The user should clone the repository from GitHub. This application requires Node
 
 This application will allow users to view, add, and edit employees, roles, departments, and managers.
 
-View walk through video via [![Watch the video](Employee-Management-System)](https://drive.google.com/file/d/1AXQgxbbumq0uXds7yJS2xikDukW-BUr4/view?usp=sharing)
+View walk through video via [Screencastify](https://drive.google.com/file/d/1AXQgxbbumq0uXds7yJS2xikDukW-BUr4/view?usp=sharing)
 
 ## License
 
