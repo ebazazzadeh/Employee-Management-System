@@ -36,6 +36,7 @@ WHEN I choose to add an employee
 THEN I am prompted to enter the employee’s first name, last name, role, and manager, and that employee is added to the database
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
+```
 
 ## Installation
 
@@ -47,14 +48,21 @@ This application will allow users to view, add, and edit employees, roles, depar
 
 View walk through video via [![Watch the video](https://pagarbook.com/blog/wp-content/uploads/2021/01/New-Project-1.jpg)](https://drive.google.com/file/d/1AXQgxbbumq0uXds7yJS2xikDukW-BUr4/view?usp=sharing)
 
-## License
+##Demo
+
+![EmployeeManagementSystem](./demo/Employee-Management-System.gif)
+
+##License
 
 This project is license under MIT
 
-## Author
+##Author
 
 Elham Bazazzadeh.
+
 ```
 
 ##Refrences for Image:
-.()https://pagarbook.com/blog/employee-management-system-and-importance-with-example/
+
+https://pagarbook.com/blog/employee-management-system-and-importance-with-example/
+```
