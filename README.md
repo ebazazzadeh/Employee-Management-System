@@ -48,21 +48,21 @@ This application will allow users to view, add, and edit employees, roles, depar
 
 View walk through video via [![Watch the video](https://pagarbook.com/blog/wp-content/uploads/2021/01/New-Project-1.jpg)](https://drive.google.com/file/d/1AXQgxbbumq0uXds7yJS2xikDukW-BUr4/view?usp=sharing)
 
-##Demo
+## Demo
 
 ![EmployeeManagementSystem](./demo/Employee-Management-System.gif)
 
-##License
+## License
 
 This project is license under MIT
 
-##Author
+## Author
 
 Elham Bazazzadeh.
 
 ```
 
-##Refrences for Image:
+## Refrences for Image:
 
 https://pagarbook.com/blog/employee-management-system-and-importance-with-example/
 ```
